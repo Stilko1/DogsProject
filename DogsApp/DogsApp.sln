@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogsApp", "DogsApp\DogsApp.csproj", "{366501A7-AD46-4346-909C-BF4191BDCAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366501A7-AD46-4346-909C-BF4191BDCAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366501A7-AD46-4346-909C-BF4191BDCAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366501A7-AD46-4346-909C-BF4191BDCAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366501A7-AD46-4346-909C-BF4191BDCAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3CDBC38-813B-4065-8DF5-C54015BF6320}
+	EndGlobalSection
+EndGlobal
