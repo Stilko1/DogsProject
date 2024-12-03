@@ -1,7 +1,5 @@
 ﻿using DogsApp.Models;
-
 using Microsoft.AspNetCore.Mvc;
-
 using System.Diagnostics;
 
 namespace DogsApp.Controllers
